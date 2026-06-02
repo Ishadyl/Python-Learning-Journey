@@ -1,0 +1,18 @@
+a = "Isha!"
+str1 = " Hi, This is Isha "
+print(a.upper())
+print(a.lower())
+print(str1.strip())
+print(a.rstrip("!"))
+print(a.replace("Isha","Dayal"))
+print(str1.split(" "))
+print(str1.capitalize())
+print(str1.center(50))
+print(str1.count("i"))
+print(str1.endswith("a",2,4))
+print(str1.find("i"))
+print(str1.index(""))
+print(a.isalnum())
+print(str1.isalpha())
+print(a.swapcase())
+print(str1.title())
